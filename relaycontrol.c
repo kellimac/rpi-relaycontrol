@@ -8,7 +8,7 @@
 # Run the program with no command line arguments to show you the state of the pins.
 # Run the program with 0's or 1's to turn various pins on and off 
 # ex ./relaycontrol 0 1 0 0 1 
-# Compile using gcc: gcc relaycontrol -o relaycontrol.c -l wiringPi
+# Compile using gcc: gcc relaycontrol.c -o relaycontrol -l wiringPi
 # requires the wiringPi library
 # Use freely and at your own risk
 # written by Kelli McMillan-McKowan 2015
