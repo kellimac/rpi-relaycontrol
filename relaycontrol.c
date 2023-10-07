@@ -12,7 +12,7 @@
 # requires the wiringPi library
 # Use freely and at your own risk
 # written by Kelli McMillan-McKowan 2015
-# http://www.rationalmisanthrope.com
+# http://www.cativerse.com
 #
 
 extern int errno ;
